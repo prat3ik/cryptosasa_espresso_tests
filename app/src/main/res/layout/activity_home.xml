@@ -87,6 +87,9 @@
                             android:id="@+id/quote_currency"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
                             android:background="@drawable/edit_view" />
                            <!-- android:theme="?android:attr/borderlessButtonStyle"-->
 
